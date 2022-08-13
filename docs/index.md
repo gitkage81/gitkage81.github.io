@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+# THE色名対策 プライバシーポリシー
+## 広告について
+本アプリでは、広告配信ツールとしてAdMob(Google Inc.)を使用しており、AdMobがご利用者の情報を自動取得する場合があります。取得する情報、利用目的、第三者への提供等につきましては、以下の広告配信事業者のアプリケーション・プライバシーポリシーのリンクよりご確認ください。
 
-You can use the [editor on GitHub](https://github.com/gitkage81/gitkage81.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+[Google 広告に関するポリシー](https://policies.google.com/technologies/ads?hl=ja)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 改訂について
+本プライバシーポリシーを変更する際はこのページを更新することでユーザーに通知したものとします。
 
-### Markdown
+## お問い合わせ
+ご不明点がある場合はお気軽にご連絡ください。お問い合わせに用いられた個人情報は厳密に管理し、第三者への提供は一切行いません。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+サポートメールアドレス：<app.kage.81@gmail.com>
 
-```markdown
-Syntax highlighted code block
+## 免責事項
+開発者は本アプリに関連して発生した一切の損害について責任を負いません。
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gitkage81/gitkage81.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+---
+2022年8月13日更新
